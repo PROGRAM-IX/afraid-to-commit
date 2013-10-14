@@ -10,9 +10,9 @@ Workshops
 
 PyCon Ireland in Dublin, 14th October 2013
 ------------------------------------------
-* Vincent Hussey
+* Vincent Hussey vincent.hussey@opw.ie https://github.com/VincentHussey
 * Padraic Harley <@pauricthelodger> <padraic@thelodgeronline.com>
-* Paul Cunnane
+* Paul Cunnane <paul.cunnane@gmail.com> https://github.com/paulcunnane
 * Tianyi Wang
 * Sorcha Bowler <saoili @ github, twitter, gmail, most of the internet>
 * Jennifer Parak https://github.com/jenpaff
@@ -21,6 +21,8 @@ PyCon Ireland in Dublin, 14th October 2013
 * Pablo Porto https://github.com/portovep
 * Robert McGivern
 * Tianyi Wang <wty52133@gmail.com> @TianyiWang33
+* James Heslin <program.ix.j@gmail.com> https://github.com/PROGRAM-IX
+* Sorcha Bowler <saoili@gmail.com. saoili on github, twitter, most of the internet>
 
 PyCon UK in Coventry, 22nd September 2013
 -----------------------------------------
