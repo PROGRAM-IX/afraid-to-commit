@@ -14,6 +14,13 @@ PyCon Ireland in Dublin, 14th October 2013
 * Padraic Harley <@pauricthelodger> <padraic@thelodgeronline.com>
 * Paul Cunnane
 * Tianyi Wang
+* Sorcha Bowler <saoili @ github, twitter, gmail, most of the internet>
+* Jennifer Parak https://github.com/jenpaff
+* Andrea Fagan
+* Jennifer Casavantes
+* Pablo Porto https://github.com/portovep
+* Robert McGivern
+* Tianyi Wang <wty52133@gmail.com> @TianyiWang33
 
 PyCon UK in Coventry, 22nd September 2013
 -----------------------------------------
